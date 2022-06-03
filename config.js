@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi tình yêu to bự ",
-    introTitle: 'Hiếu Đỗ',
+    titleWeb: "Mini rúp ",
+    introTitle: 'Everyone',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
